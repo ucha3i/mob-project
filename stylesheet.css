@@ -1,0 +1,79 @@
+body {
+  font-family: "Righteous", cursive;
+  background-color: whitesmoke;
+  padding: 15px;
+}
+
+.header {
+  height: 130%;
+  border-bottom: 1px solid darkslategray;
+}
+
+.header img {
+  align-items: left;
+  width: 20%;
+  min-width: 200px;
+  padding-top: 35px;
+}
+
+h1 {
+  font-size: 500%;
+  text-transform: uppercase;
+  color: #cd3700;
+  text-align: center;
+}
+
+h2 {
+  font-size: 300%;
+  text-transform: uppercase;
+  color: darkslategray;
+}
+
+h3 {
+  font-size: 200%;
+  text-align: center;
+  color: darkslategray;
+}
+p {
+  text-align: center;
+  font-size: 120%;
+  color: darkslategray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  background: white;
+  padding: 10px 100px 30px 100px;
+  text-align: center;
+  font-size: 110%;
+  width: 50%;
+  margin: 0 auto;
+  border: 2px solid whitesmoke;
+  border-radius: 10px;
+  margin-top: 15px;
+  margin-bottom: 50px;
+}
+img {
+  height: auto;
+  width: 100%;
+  padding: 10px;
+  padding-bottom: 30px;
+}
+a {
+  color: olive;
+  text-decoration: none;
+  text-align: center;
+  font-size: 150%;
+  padding: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  color: black;
+}
+a:visited {
+  color: purple;
+}
